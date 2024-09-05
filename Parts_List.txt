@@ -1,0 +1,15 @@
+- ESP32-S3-WROOM-1U-N16
+- GW.34.5153 (Antenna)
+- 18650 Battery + Battery Holder
+- TP4056 Module
+- XC6120N302NR-G Voltage supervisor IC
+- PCM1808PWR
+- PAM8406DR
+
+
+Todo:
+- Potentiometers
+- OLED Screen
+- Battery Holder
+- RC Filter circuit
+- SD card reader
